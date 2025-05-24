@@ -1,0 +1,624 @@
+<!DOCTYPE html>
+<html xmlns="https//www.w3.org/1999/xhtml" lang="en-US">
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-LVEH22QJMT"></script>
+<script>
+	window.dataLayer = window.dataLayer || [];
+function gtag() {
+dataLayer.push(arguments);
+}
+gtag('js', new Date());
+
+gtag('config', 'G-LVEH22QJMT');
+</script>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta content="index, follow" name="robots">
+<meta content="index, follow" name="googlebot">
+
+	
+
+
+
+<!-- Primary Meta Tags -->
+<title>Research || Naughty Dog</title>
+<meta name="title" content="Research || Naughty Dog">
+<meta name="description" content="The official website of Naughty Dog, award-winning creators of Uncharted and The Last of Us series">
+
+<!-- Icons -->
+<link rel="shortcut icon" href="//s3.amazonaws.com/nd.images/icons/naughty_paw_logo.png">
+<link rel="apple-touch-icon-precomposed icon" type="image/png" href="//s3.amazonaws.com/nd.images/icons/naughty_paw_logo.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="//s3.amazonaws.com/nd.images/icons/naughty_paw_apple.png">
+<meta name="theme-color" content="#E00000"/>
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.naughtydog.com/research">
+<meta property="og:title" content="Research || Naughty Dog">
+<meta property="og:description" content="The official website of Naughty Dog, award-winning creators of Uncharted and The Last of Us series">
+<meta property="og:image" content="https://s3.amazonaws.com/nd.images/uploads/blog_default-red.png">
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="https://www.naughtydog.com/research">
+<meta property="twitter:title" content="Research || Naughty Dog">
+<meta property="twitter:description" content="The official website of Naughty Dog, award-winning creators of Uncharted and The Last of Us series">
+<meta property="twitter:image" content="https://s3.amazonaws.com/nd.images/uploads/blog_default-red.png">	<!-- Style -->
+	<link rel="stylesheet" type="text/css" href="/assets/css/blog.min.css">
+	<!-- JS -->
+	<script type="text/javascript" src="/assets/js/global.min.js"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/gsap/1.20.2/TweenMax.min.js"></script>
+	
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.7.0/gsap.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.7.0/CSSRulePlugin.min.js" integrity="sha512-EIzKYNrmzSj8Q5czLrNi/F6bplhopAp2Li9nk/8r7MW+Ov9KPEo0xrjWMYXU8lFYy5dzh/w8Ql5ShZHucrjXdg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.7.0/ScrollTrigger.min.js"></script>
+
+	<script type="text/javascript" src="/assets/js/blog.min.js"></script>
+	<script>
+		(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+	</script>
+</head>
+<body>
+	<nav class="navbar navbar-expand-lg fixed-top bg_off-white static-top d-block d-md-flex">
+	<div class="d-flex align-items-center justify-content-between w-100">
+		<a class="navbar-brand" href="https://www.naughtydog.com/">
+			<img class="header_logo lazy" title="Naughty Dog" src="https://s3.us-east-1.amazonaws.com/nd.images/uploads/NaughtyDog_LogoRGB_WHT_Web_600x95_01.png" data-src="https://s3.us-east-1.amazonaws.com/nd.images/uploads/NaughtyDog_LogoRGB_WHT_Web_600x95_01.png">
+		</a>
+		<button class="navbar-toggler position-relative" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+			<span class="position-absolute d-block w-100 bg_charcoal"></span>
+			<span class="position-absolute d-block w-100 bg_charcoal"></span>
+			<span class="position-absolute d-block w-100 bg_charcoal"></span>
+		</button>
+	</div>
+	<div class="collapse navbar-collapse" id="navbarNavDropdown">
+		<ul class="navbar-nav ml-auto text-center pb-4 pb-lg-0 align-items-center">
+												<li class="nav-item my-1 my-lg-0 ml-0 ml-lg-4 ml-xl-5">
+						<a class="nav-link text-decoration-none text-uppercase font-weight-bold link-charcoal p-0" href="/blog">News</a>
+					</li>
+																<li class="nav-item my-1 my-lg-0 ml-0 ml-lg-4 ml-xl-5 dropdown">
+						<a class="nav-link link-charcoal text-decoration-none text-uppercase p-0 font-weight-bold dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Company</a>
+						<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+														<a class="dropdown-item text-center text-lg-left" href="/company">About</a>
+														<a class="dropdown-item text-center text-lg-left" href="/press">Contact</a>
+													</div>
+					</li>
+																<li class="nav-item my-1 my-lg-0 ml-0 ml-lg-4 ml-xl-5 dropdown">
+						<a class="nav-link link-charcoal text-decoration-none text-uppercase p-0 font-weight-bold dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Games</a>
+						<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+														<a class="dropdown-item text-center text-lg-left" href="https://www.thelastofus.playstation.com/" target="_blank" rel="noreferrer">The Last of Us</a>
+														<a class="dropdown-item text-center text-lg-left" href="https://unchartedthegame.com/" target="_blank" rel="noreferrer">Uncharted</a>
+														<a class="dropdown-item text-center text-lg-left" href="https://www.playstation.com/en-us/games/jak-and-daxter-the-precursor-legacy/" target="_blank" rel="noreferrer">Jak &amp; Daxter</a>
+													</div>
+					</li>
+																<li class="nav-item my-1 my-lg-0 ml-0 ml-lg-4 ml-xl-5">
+						<a class="nav-link text-decoration-none text-uppercase font-weight-bold link-charcoal p-0" href="https://feedback.naughtydog.com" target="_blank" rel="noreferrer">Support</a>
+					</li>
+																<li class="nav-item my-1 my-lg-0 ml-0 ml-lg-4 ml-xl-5 dropdown">
+						<a class="nav-link link-charcoal text-decoration-none text-uppercase p-0 font-weight-bold dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Gear Store</a>
+						<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+														<a class="dropdown-item text-center text-lg-left" href="https://gear.playstation.com/brands/the-last-of-us" target="_blank" rel="noreferrer">The Last of Us</a>
+														<a class="dropdown-item text-center text-lg-left" href="https://gear.playstation.com/brands/uncharted" target="_blank" rel="noreferrer">Uncharted</a>
+													</div>
+					</li>
+																<li class="nav-item my-1 my-lg-0 ml-0 ml-lg-4 ml-xl-5">
+						<a class="nav-link text-decoration-none text-uppercase font-weight-bold cta py-2 px-3 my-0" href="/careers">Careers</a>
+					</li>
+									</ul>
+	</div>
+</nav>	    <div class="body-container container" id="research-body">
+                <div class="articles container">
+            
+    
+    
+        
+
+<div id="blog-partial">
+
+                
+                <div id="blog-header" class="d-md-flex align-items-center justify-content-between">
+                <div class="blog-categories mw-50">
+            <a class="button button-secondary mr-1 ml-0 my-0" href="https://www.naughtydog.com/blog">
+                <span class="unskew">All News</span>
+            </a>   
+            <a class="button button-primary ml-1 mr-0 my-0" href="https://www.naughtydog.com/research">
+                <span class="unskew">Research</span>
+            </a>
+        </div>
+    </div>
+        <div class="top-wrap">
+            <div class="first-article mobile">
+    <aside class="title news Research">RECENT NEWS</aside>
+    <aside class="title research">RESEARCH</aside>
+    <article class="news-item row bg_off-white first">
+        <div class="media-wrapper col-md-5 order-1 order-md-2 position-relative overflow-hidden">
+            <a class="media d-block cover w-100 h-100" href="https://www.naughtydog.com/blog/naughty_dog_at_gdc_2021" style="background-image: url(https://s3.amazonaws.com/nd.images/uploads/blog_default-red.png);" title="Naughty Dog at GDC 2021"></a>
+        </div>
+        <div class="entry_txt col-md-7 d-flex justify-content-center flex-column p-4 order-2 order-md-1">
+            <div class="blog-type">research</div>
+            <a href="https://www.naughtydog.com/blog/naughty_dog_at_gdc_2021">
+                <div class="title-inner">
+                    <h3>Naughty Dog at GDC 2021</h3>
+                                            <p class="summary">Take a deep dive into the development of The Last of Us Part II! We&#039;re pro…</p>
+                                    </div>
+            </a>
+        </div>
+        <div class="arrow-link">
+            <img src="/assets/images/openings-arrow-up.svg" alt="">
+        </div>
+    </article>
+</div>
+
+<div class="first-article desktop">
+    <aside class="title news Research">RECENT NEWS</aside>
+    <aside class="title research">RESEARCH</aside>
+    <article class="news-item first">
+        <div class="media-wrapper position-relative overflow-hidden">
+            <a class="media d-block cover w-100 h-100" href="https://www.naughtydog.com/blog/naughty_dog_at_gdc_2021" style="background-image: url(https://s3.amazonaws.com/nd.images/uploads/blog_default-red.png);" title="Naughty Dog at GDC 2021"></a>
+        </div>
+        <div class="button-wrapper">
+            <a class="button button-secondary mr-1 ml-0 my-0" href="https://www.naughtydog.com/blog">
+                <span class="unskew">All News</span>
+            </a>
+            <a class="button button-primary ml-1 mr-0 my-0" href="https://www.naughtydog.com/research">
+                <span class="unskew">Research</span>
+            </a>
+        </div>
+        <div class="entry_txt col-md-9 d-flex justify-content-center flex-column order-2 order-md-1">
+            <div class="blog-type">research</div>
+            <a href="https://www.naughtydog.com/blog/naughty_dog_at_gdc_2021">
+                <div class="title-inner">
+                    <h3>Naughty Dog at GDC 2021</h3>
+                                            <p class="summary">Take a deep dive into the development of The Last of Us Part II! We&#039;re proud to share the presentat…</p>
+                                    </div>
+
+                <div class="arrow-link">
+                    <img src="/assets/images/openings-arrow-up.svg" alt="">
+                </div>
+            </a>
+        </div>
+
+
+    </article>
+</div>
+        </div>
+                    
+                                                <div class="research-four">
+                    
+        	<article class="news-item row not-first">
+    <a href="https://www.naughtydog.com/blog/naughty_dog_at_siggraph_asia_2020">
+        <div class="blog-type">research</div>
+        <div class="bg-image"></div>
+        <div class="media-wrapper col-md-5 col-lg-6 order-1 order-md-1 position-relative overflow-hidden media-wrapper-type-research">
+            <a class="media d-block cover w-100" href="https://www.naughtydog.com/blog/naughty_dog_at_siggraph_asia_2020" style="background-image: url(https://s3.us-east-1.amazonaws.com/nd.images/uploads/TLOUPII_NARRATIVE_STILL_14.jpg);" title="Naughty Dog at SIGGRAPH Asia 2020"></a>
+        </div>
+        <div class="entry_txt col-md-6 col-lg-5 justify-content-center flex-column order-2 order-md-2 entry-text-type-research">
+            <a class="author" href="/blog/authors/trent-tharalson/posts" title="View authors posts">Trent Tharalson /</a>
+            <div class="date">August 5, 2021</div>
+            <a href="https://www.naughtydog.com/blog/naughty_dog_at_siggraph_asia_2020"><h3>Naughty Dog at SIGGRAPH Asia 2020</h3>
+
+                                    <p class="summary">Read more about real-time cinematics in The Last of Us Part II in this in-depth presentation by Naughty Dog g…</p>
+                            </a>
+        </div>
+
+        <div class="arrow-link">
+            <a href="https://www.naughtydog.com/blog/naughty_dog_at_siggraph_asia_2020">
+                <img src="/assets/images/openings-arrow-up-red.svg" alt="">
+            </a>
+        </div>
+    </a>
+</article>
+
+                                    
+                    
+                                        
+        	<article class="news-item row not-first">
+    <a href="https://www.naughtydog.com/blog/naughty_dog_at_siggraph_2020">
+        <div class="blog-type">research</div>
+        <div class="bg-image"></div>
+        <div class="media-wrapper col-md-5 col-lg-6 order-1 order-md-1 position-relative overflow-hidden media-wrapper-type-research">
+            <a class="media d-block cover w-100" href="https://www.naughtydog.com/blog/naughty_dog_at_siggraph_2020" style="background-image: url(https://s3.us-east-1.amazonaws.com/nd.images/uploads/the-last-of-us-part-ii-screen-us-11jun18-10.jpg);" title="Naughty Dog at SIGGRAPH 2020"></a>
+        </div>
+        <div class="entry_txt col-md-6 col-lg-5 justify-content-center flex-column order-2 order-md-2 entry-text-type-research">
+            <a class="author" href="/blog/authors/naughty-dog/posts" title="View authors posts">Naughty Dog /</a>
+            <div class="date">February 11, 2021</div>
+            <a href="https://www.naughtydog.com/blog/naughty_dog_at_siggraph_2020"><h3>Naughty Dog at SIGGRAPH 2020</h3>
+
+                                    <p class="summary">Take a deep dive into the development of The Last of Us Part II! We&#039;re proud to share the presentations by th…</p>
+                            </a>
+        </div>
+
+        <div class="arrow-link">
+            <a href="https://www.naughtydog.com/blog/naughty_dog_at_siggraph_2020">
+                <img src="/assets/images/openings-arrow-up-red.svg" alt="">
+            </a>
+        </div>
+    </a>
+</article>
+
+                                    
+                    
+                                        
+        	<article class="news-item row not-first">
+    <a href="https://www.naughtydog.com/blog/naughty_dog_at_gdc_2019">
+        <div class="blog-type">research</div>
+        <div class="bg-image"></div>
+        <div class="media-wrapper col-md-5 col-lg-6 order-1 order-md-1 position-relative overflow-hidden media-wrapper-type-research">
+            <a class="media d-block cover w-100" href="https://www.naughtydog.com/blog/naughty_dog_at_gdc_2019" style="background-image: url(https://s3.us-east-1.amazonaws.com/nd.images/uploads/GDC2019_Banner.jpg);" title="Naughty Dog at GDC 2019"></a>
+        </div>
+        <div class="entry_txt col-md-6 col-lg-5 justify-content-center flex-column order-2 order-md-2 entry-text-type-research">
+            <a class="author" href="/blog/authors/scott-lowe/posts" title="View authors posts">Scott Lowe /</a>
+            <div class="date">March 15, 2019</div>
+            <a href="https://www.naughtydog.com/blog/naughty_dog_at_gdc_2019"><h3>Naughty Dog at GDC 2019</h3>
+
+                                    <p class="summary">Learn all about our talks, roundtables, and recruiting plans.</p>
+                            </a>
+        </div>
+
+        <div class="arrow-link">
+            <a href="https://www.naughtydog.com/blog/naughty_dog_at_gdc_2019">
+                <img src="/assets/images/openings-arrow-up-red.svg" alt="">
+            </a>
+        </div>
+    </a>
+</article>
+
+                                    
+                    
+                                        
+        	<article class="news-item row not-first">
+    <a href="https://www.naughtydog.com/blog/naughty_dog_at_gdc_2018">
+        <div class="blog-type">research</div>
+        <div class="bg-image"></div>
+        <div class="media-wrapper col-md-5 col-lg-6 order-1 order-md-1 position-relative overflow-hidden media-wrapper-type-research">
+            <a class="media d-block cover w-100" href="https://www.naughtydog.com/blog/naughty_dog_at_gdc_2018" style="background-image: url(https://s3.us-east-1.amazonaws.com/nd.images/uploads/GDC_2018.jpg);" title="Naughty Dog at GDC 2018"></a>
+        </div>
+        <div class="entry_txt col-md-6 col-lg-5 justify-content-center flex-column order-2 order-md-2 entry-text-type-research">
+            <a class="author" href="/blog/authors/scott-lowe/posts" title="View authors posts">Scott Lowe /</a>
+            <div class="date">March 14, 2018</div>
+            <a href="https://www.naughtydog.com/blog/naughty_dog_at_gdc_2018"><h3>Naughty Dog at GDC 2018</h3>
+
+                                    <p class="summary">Attending Game Developers Conference? Don&#039;t miss these talks featuring Naughty Dog devs.</p>
+                            </a>
+        </div>
+
+        <div class="arrow-link">
+            <a href="https://www.naughtydog.com/blog/naughty_dog_at_gdc_2018">
+                <img src="/assets/images/openings-arrow-up-red.svg" alt="">
+            </a>
+        </div>
+    </a>
+</article>
+
+                                            </div>
+                    
+                    
+                                        
+        	<article class="news-item row not-first">
+    <a href="https://www.naughtydog.com/blog/naughty_dog_gdc_2017">
+        <div class="blog-type">research</div>
+        <div class="bg-image"></div>
+        <div class="media-wrapper col-md-5 col-lg-6 order-1 order-md-1 position-relative overflow-hidden media-wrapper-type-research">
+            <a class="media d-block cover w-100" href="https://www.naughtydog.com/blog/naughty_dog_gdc_2017" style="background-image: url(https://s3.us-east-1.amazonaws.com/nd.images/uploads/GDCBanner.jpg);" title="Naughty Dog at GDC 2017"></a>
+        </div>
+        <div class="entry_txt col-md-6 col-lg-5 justify-content-center flex-column order-2 order-md-2 entry-text-type-research">
+            <a class="author" href="/blog/authors/scott-lowe/posts" title="View authors posts">Scott Lowe /</a>
+            <div class="date">February 23, 2017</div>
+            <a href="https://www.naughtydog.com/blog/naughty_dog_gdc_2017"><h3>Naughty Dog at GDC 2017</h3>
+
+                                    <p class="summary">Come see us at Game Developers Conference 2017 as we provide behind-the-scenes insights into our approach to …</p>
+                            </a>
+        </div>
+
+        <div class="arrow-link">
+            <a href="https://www.naughtydog.com/blog/naughty_dog_gdc_2017">
+                <img src="/assets/images/openings-arrow-up-red.svg" alt="">
+            </a>
+        </div>
+    </a>
+</article>
+
+                                    
+                    
+                                        
+        	<article class="news-item row not-first">
+    <a href="https://www.naughtydog.com/blog/2015_naughty_dog_gdc_talks_and_art_bootcamp">
+        <div class="blog-type">research</div>
+        <div class="bg-image"></div>
+        <div class="media-wrapper col-md-5 col-lg-6 order-1 order-md-1 position-relative overflow-hidden media-wrapper-type-research">
+            <a class="media d-block cover w-100" href="https://www.naughtydog.com/blog/2015_naughty_dog_gdc_talks_and_art_bootcamp" style="background-image: url(https://s3.us-east-1.amazonaws.com/nd.images/uploads/ND_Blogpost_GDC15_960x540.jpg);" title="2015 Naughty Dog GDC Talks and Art Bootcamp"></a>
+        </div>
+        <div class="entry_txt col-md-6 col-lg-5 justify-content-center flex-column order-2 order-md-2 entry-text-type-research">
+            <a class="author" href="/blog/authors/eric-monacelli/posts" title="View authors posts">Eric Monacelli /</a>
+            <div class="date">February 27, 2015</div>
+            <a href="https://www.naughtydog.com/blog/2015_naughty_dog_gdc_talks_and_art_bootcamp"><h3>2015 Naughty Dog GDC Talks and Art Bootcamp</h3>
+
+                                    <p class="summary">Learn about our best practices, techniques, tips, and tricks in tech, art, and animation by joining us for so…</p>
+                            </a>
+        </div>
+
+        <div class="arrow-link">
+            <a href="https://www.naughtydog.com/blog/2015_naughty_dog_gdc_talks_and_art_bootcamp">
+                <img src="/assets/images/openings-arrow-up-red.svg" alt="">
+            </a>
+        </div>
+    </a>
+</article>
+
+                                    
+                    
+                                        
+        	<article class="news-item row not-first">
+    <a href="https://www.naughtydog.com/blog/2014_naughty_dog_gdc_talks_and_the_last_of_us_accolades">
+        <div class="blog-type">research</div>
+        <div class="bg-image"></div>
+        <div class="media-wrapper col-md-5 col-lg-6 order-1 order-md-1 position-relative overflow-hidden media-wrapper-type-research">
+            <a class="media d-block cover w-100" href="https://www.naughtydog.com/blog/2014_naughty_dog_gdc_talks_and_the_last_of_us_accolades" style="background-image: url(https://s3.us-east-1.amazonaws.com/nd.images/uploads/ND_Blogpost_GDC14_960x540.jpg);" title="2014 Naughty Dog GDC Talks and The Last of Us Accolades"></a>
+        </div>
+        <div class="entry_txt col-md-6 col-lg-5 justify-content-center flex-column order-2 order-md-2 entry-text-type-research">
+            <a class="author" href="/blog/authors/eric-monacelli/posts" title="View authors posts">Eric Monacelli /</a>
+            <div class="date">March 14, 2014</div>
+            <a href="https://www.naughtydog.com/blog/2014_naughty_dog_gdc_talks_and_the_last_of_us_accolades"><h3>2014 Naughty Dog GDC Talks and The Last of Us Accolades</h3>
+
+                                    <p class="summary">A full rundown of all the GDC talks Naughty Dog will be giving this year and an update on the accolades The L…</p>
+                            </a>
+        </div>
+
+        <div class="arrow-link">
+            <a href="https://www.naughtydog.com/blog/2014_naughty_dog_gdc_talks_and_the_last_of_us_accolades">
+                <img src="/assets/images/openings-arrow-up-red.svg" alt="">
+            </a>
+        </div>
+    </a>
+</article>
+
+                                    
+                    
+                                        
+        	<article class="news-item row not-first">
+    <a href="https://www.naughtydog.com/blog/siggraph_2012_retrospective_part_2">
+        <div class="blog-type">research</div>
+        <div class="bg-image"></div>
+        <div class="media-wrapper col-md-5 col-lg-6 order-1 order-md-1 position-relative overflow-hidden media-wrapper-type-research">
+            <a class="media d-block cover w-100" href="https://www.naughtydog.com/blog/siggraph_2012_retrospective_part_2" style="background-image: url(https://s3.amazonaws.com/nd.images/uploads/blog_default-red.png);" title="Siggraph 2012 Retrospective Part 2"></a>
+        </div>
+        <div class="entry_txt col-md-6 col-lg-5 justify-content-center flex-column order-2 order-md-2 entry-text-type-research">
+            <a class="author" href="/blog/authors/iki-ikram/posts" title="View authors posts">Iki Ikram /</a>
+            <div class="date">August 29, 2012</div>
+            <a href="https://www.naughtydog.com/blog/siggraph_2012_retrospective_part_2"><h3>Siggraph 2012 Retrospective Part 2</h3>
+
+                                    <p class="summary">Iki Ikram, Visual Effects Artist, and Doug Holder, Visual Effects Artist, share their experiences at Siggraph…</p>
+                            </a>
+        </div>
+
+        <div class="arrow-link">
+            <a href="https://www.naughtydog.com/blog/siggraph_2012_retrospective_part_2">
+                <img src="/assets/images/openings-arrow-up-red.svg" alt="">
+            </a>
+        </div>
+    </a>
+</article>
+
+                                    
+                    
+                                        
+        	<article class="news-item row not-first">
+    <a href="https://www.naughtydog.com/blog/siggraph_2012_retrospective">
+        <div class="blog-type">research</div>
+        <div class="bg-image"></div>
+        <div class="media-wrapper col-md-5 col-lg-6 order-1 order-md-1 position-relative overflow-hidden media-wrapper-type-research">
+            <a class="media d-block cover w-100" href="https://www.naughtydog.com/blog/siggraph_2012_retrospective" style="background-image: url(https://s3.amazonaws.com/nd.images/uploads/blog_default-red.png);" title="Siggraph 2012 Retrospective"></a>
+        </div>
+        <div class="entry_txt col-md-6 col-lg-5 justify-content-center flex-column order-2 order-md-2 entry-text-type-research">
+            <a class="author" href="/blog/authors/keith-guerrette/posts" title="View authors posts">Keith Guerrette /</a>
+            <div class="date">August 24, 2012</div>
+            <a href="https://www.naughtydog.com/blog/siggraph_2012_retrospective"><h3>Siggraph 2012 Retrospective</h3>
+
+                                    <p class="summary">Keith Guerrette, Lead Visual Effects Artist, details his trip to Siggraph 2012 and what he saw and learned th…</p>
+                            </a>
+        </div>
+
+        <div class="arrow-link">
+            <a href="https://www.naughtydog.com/blog/siggraph_2012_retrospective">
+                <img src="/assets/images/openings-arrow-up-red.svg" alt="">
+            </a>
+        </div>
+    </a>
+</article>
+
+                                    
+                    
+                                        
+        	<article class="news-item row not-first">
+    <a href="https://www.naughtydog.com/blog/naughty_dog_at_gdc_2012">
+        <div class="blog-type">research</div>
+        <div class="bg-image"></div>
+        <div class="media-wrapper col-md-5 col-lg-6 order-1 order-md-1 position-relative overflow-hidden media-wrapper-type-research">
+            <a class="media d-block cover w-100" href="https://www.naughtydog.com/blog/naughty_dog_at_gdc_2012" style="background-image: url(https://s3.us-east-1.amazonaws.com/nd.images/uploads/2012_03_02_GDC.png);" title="Naughty Dog at GDC 2012"></a>
+        </div>
+        <div class="entry_txt col-md-6 col-lg-5 justify-content-center flex-column order-2 order-md-2 entry-text-type-research">
+            <a class="author" href="/blog/authors/arne-meyer/posts" title="View authors posts">Arne Meyer /</a>
+            <div class="date">March 3, 2012</div>
+            <a href="https://www.naughtydog.com/blog/naughty_dog_at_gdc_2012"><h3>Naughty Dog at GDC 2012</h3>
+
+                                    <p class="summary">GDC 2012 is almost here - just next week - and Naughty Dog is in a veritable TON of sessions. Oh, and don&#039;t f…</p>
+                            </a>
+        </div>
+
+        <div class="arrow-link">
+            <a href="https://www.naughtydog.com/blog/naughty_dog_at_gdc_2012">
+                <img src="/assets/images/openings-arrow-up-red.svg" alt="">
+            </a>
+        </div>
+    </a>
+</article>
+
+                                    
+                    
+                                        
+        	<article class="news-item row not-first">
+    <a href="https://www.naughtydog.com/blog/the_lab_march_2011_schedule">
+        <div class="blog-type">research</div>
+        <div class="bg-image"></div>
+        <div class="media-wrapper col-md-5 col-lg-6 order-1 order-md-1 position-relative overflow-hidden media-wrapper-type-research">
+            <a class="media d-block cover w-100" href="https://www.naughtydog.com/blog/the_lab_march_2011_schedule" style="background-image: url(https://s3.amazonaws.com/nd.images/uploads/blog_default-red.png);" title="“The Lab” - March 2011 Schedule"></a>
+        </div>
+        <div class="entry_txt col-md-6 col-lg-5 justify-content-center flex-column order-2 order-md-2 entry-text-type-research">
+            <a class="author" href="/blog/authors/arne-meyer/posts" title="View authors posts">Arne Meyer /</a>
+            <div class="date">March 18, 2011</div>
+            <a href="https://www.naughtydog.com/blog/the_lab_march_2011_schedule"><h3>“The Lab” - March 2011 Schedule</h3>
+
+                                    <p class="summary">We missed posting the March 2011 schedule for “The Lab” on time. Better late than never, right?
+Hit the jump …</p>
+                            </a>
+        </div>
+
+        <div class="arrow-link">
+            <a href="https://www.naughtydog.com/blog/the_lab_march_2011_schedule">
+                <img src="/assets/images/openings-arrow-up-red.svg" alt="">
+            </a>
+        </div>
+    </a>
+</article>
+
+                                    
+                    
+                                        
+        	<article class="news-item row not-first">
+    <a href="https://www.naughtydog.com/blog/gdc_2011_day_two">
+        <div class="blog-type">research</div>
+        <div class="bg-image"></div>
+        <div class="media-wrapper col-md-5 col-lg-6 order-1 order-md-1 position-relative overflow-hidden media-wrapper-type-research">
+            <a class="media d-block cover w-100" href="https://www.naughtydog.com/blog/gdc_2011_day_two" style="background-image: url(https://s3.amazonaws.com/nd.images/uploads/blog_default-red.png);" title="GDC 2011 - Day Two"></a>
+        </div>
+        <div class="entry_txt col-md-6 col-lg-5 justify-content-center flex-column order-2 order-md-2 entry-text-type-research">
+            <a class="author" href="/blog/authors/arne-meyer/posts" title="View authors posts">Arne Meyer /</a>
+            <div class="date">March 3, 2011</div>
+            <a href="https://www.naughtydog.com/blog/gdc_2011_day_two"><h3>GDC 2011 - Day Two</h3>
+
+                                    <p class="summary">As we head into the second day of GDC 2011, there&#039;s a several sessions featuring Naughty Dogs or very, very c…</p>
+                            </a>
+        </div>
+
+        <div class="arrow-link">
+            <a href="https://www.naughtydog.com/blog/gdc_2011_day_two">
+                <img src="/assets/images/openings-arrow-up-red.svg" alt="">
+            </a>
+        </div>
+    </a>
+</article>
+
+                                    
+                    
+                                        
+        	<article class="news-item row not-first">
+    <a href="https://www.naughtydog.com/blog/gdc_2011_day_one">
+        <div class="blog-type">research</div>
+        <div class="bg-image"></div>
+        <div class="media-wrapper col-md-5 col-lg-6 order-1 order-md-1 position-relative overflow-hidden media-wrapper-type-research">
+            <a class="media d-block cover w-100" href="https://www.naughtydog.com/blog/gdc_2011_day_one" style="background-image: url(https://s3.amazonaws.com/nd.images/uploads/blog_default-red.png);" title="GDC 2011 - Day One"></a>
+        </div>
+        <div class="entry_txt col-md-6 col-lg-5 justify-content-center flex-column order-2 order-md-2 entry-text-type-research">
+            <a class="author" href="/blog/authors/arne-meyer/posts" title="View authors posts">Arne Meyer /</a>
+            <div class="date">March 2, 2011</div>
+            <a href="https://www.naughtydog.com/blog/gdc_2011_day_one"><h3>GDC 2011 - Day One</h3>
+
+                                    <p class="summary">GDC 2011 is just getting underway today. If you&#039;re attending the conference, you should drop by Naughty Dog G…</p>
+                            </a>
+        </div>
+
+        <div class="arrow-link">
+            <a href="https://www.naughtydog.com/blog/gdc_2011_day_one">
+                <img src="/assets/images/openings-arrow-up-red.svg" alt="">
+            </a>
+        </div>
+    </a>
+</article>
+
+                                    
+                    
+                                        
+        	<article class="news-item row not-first">
+    <a href="https://www.naughtydog.com/blog/naughty_dog_gdc_2011">
+        <div class="blog-type">research</div>
+        <div class="bg-image"></div>
+        <div class="media-wrapper col-md-5 col-lg-6 order-1 order-md-1 position-relative overflow-hidden media-wrapper-type-research">
+            <a class="media d-block cover w-100" href="https://www.naughtydog.com/blog/naughty_dog_gdc_2011" style="background-image: url(https://s3.amazonaws.com/nd.images/uploads/blog_default-red.png);" title="Naughty Dog @ GDC 2011"></a>
+        </div>
+        <div class="entry_txt col-md-6 col-lg-5 justify-content-center flex-column order-2 order-md-2 entry-text-type-research">
+            <a class="author" href="/blog/authors/arne-meyer/posts" title="View authors posts">Arne Meyer /</a>
+            <div class="date">February 23, 2011</div>
+            <a href="https://www.naughtydog.com/blog/naughty_dog_gdc_2011"><h3>Naughty Dog @ GDC 2011</h3>
+
+                                    <p class="summary">The Game Developers Conference 2011 starts next week in San Francisco and there are a few of sessions involvi…</p>
+                            </a>
+        </div>
+
+        <div class="arrow-link">
+            <a href="https://www.naughtydog.com/blog/naughty_dog_gdc_2011">
+                <img src="/assets/images/openings-arrow-up-red.svg" alt="">
+            </a>
+        </div>
+    </a>
+</article>
+
+                                    
+        <div class="load-more-center" style="text-align: center">
+        <button data-query-tag="" data-query-user-id="" data-query-type="Research" data-next-page="1" class="ajax-blog-load-more-hook button button-primary load-more-news">LOAD MORE RESEARCH</button>
+    </div>
+</div>
+        </div>
+    </div>
+	<footer class="w-100 position-relative bg_charcoal text_off-white">
+	<div id="social-dock" class="d-flex justify-content-center align-items-center text-center bg_red py-3 px-3">	
+									<a href="https://twitter.com/naughty_dog" class="d-block mx-3 text_white p-0 p-md-3" target="_blank" title="Twitter" rel="noreferrer">
+					<i class="icon-twitter" aria-hidden="true"></i>
+					<span class="d-none">The Official Naughty Dog Twitter Account</span>
+				</a>
+												<a href="https://www.instagram.com/naughty_dog_inc/" class="d-block mx-3 text_white p-0 p-md-3" target="_blank" title="Instagram" rel="noreferrer">
+					<i class="icon-instagram" aria-hidden="true"></i>
+					<span class="d-none">The Official Naughty Dog Instagram Account</span>
+				</a>
+												<a href="http://www.facebook.com/naughtydog" class="d-block mx-3 text_white p-0 p-md-3" target="_blank" title="Facebook" rel="noreferrer">
+					<i class="icon-facebook" aria-hidden="true"></i>
+					<span class="d-none">The Official Naughty Dog Facebook Account</span>
+				</a>
+												<a href="http://www.youtube.com/user/NaughtyDog" class="d-block mx-3 text_white p-0 p-md-3" target="_blank" title="Youtube" rel="noreferrer">
+					<i class="icon-youtube" aria-hidden="true"></i>
+					<span class="d-none">The Official Naughty Dog Youtube Account</span>
+				</a>
+																											<a href="https://www.twitch.tv/naughtydog" class="d-block mx-3 text_white p-0 p-md-3" target="_blank" title="Twitch" rel="noreferrer">
+					<i class="icon-twitch" aria-hidden="true"></i>
+					<span class="d-none">The Official Naughty Dog Twitch Account</span>
+				</a>
+						</div>
+	<div class="container p-4">
+		<div class="row">
+			<div class="mb-4 mb-md-0 col-md-6 text-center text-md-left">
+				<h3>Naughty Dog, LLC.</h3>
+				<p><a class="link-off-white" href="https://www.playstation.com/network/legal/privacy-policy/" target="_blank" rel="noreferrer">Privacy Policy</a> | <a class="link-off-white" href="https://www.playstation.com/en-us/legal/terms-of-use/" target="_blank" rel="noreferrer">Terms of Use</a></p>
+				<p>&copy; 2025 Sony Interactive Entertainment LLC.</p>
+			</div>
+			<div class="d-flex justify-content-center justify-content-md-end align-items-center col-md-6">
+				<a class="d-block mr-4" href="http://www.esrb.org/confirm/scea-confirmation.jsp" target="_blank" rel="noreferrer">
+					<img class="ib" src="https://s3.us-east-1.amazonaws.com/nd.images/uploads/esrb_privacy_policy_small.png" alt="ESRB Privacy Policy">
+				</a>
+				<a class="d-block rating position-relative" href="https://www.esrb.org/" target="_blank" rel="noreferrer">
+																		<img src="https://s3.us-east-1.amazonaws.com/nd.images/uploads/esrb_rp_m.png" alt="Rated RP - M">
+															</a>
+			</div>
+		</div>
+	</div>
+</footer>
+<script type="text/javascript" language="javascript" async src="https://s3.amazonaws.com/nd.js/css_browser_selector.min.js.gz" defer></script>
+<script type="text/javascript" language="javascript" src="https://s3.amazonaws.com/nd.js/ga_social_tracking.min.js.gz" defer></script>
+	
+</body>
+</html>
