@@ -51,7 +51,8 @@
 <script setup>
 import { ref, onMounted, watch } from 'vue'
 
-const STORAGE_KEY = 'milestones'
+const username = localStorage.getItem('user') || 'guest'
+const STORAGE_KEY = `milestones_${username}`
 
 const newMilestone = ref({ title: '', description: '', deadline: '' })
 const milestones = ref([])

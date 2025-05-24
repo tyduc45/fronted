@@ -7,6 +7,7 @@ import vueDevTools from 'vite-plugin-vue-devtools'
 // https://vite.dev/config/
 export default defineConfig({
   transpileDependencies: true,
+  base: '/cos30043/s105205224/project-30043/',
   plugins: [vue(), vueDevTools()],
   resolve: {
     alias: {

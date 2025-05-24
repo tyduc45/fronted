@@ -33,7 +33,7 @@ const currentPage = ref(1)
 const pageSize = 4
 
 onMounted(async () => {
-  const res = await fetch('/news.json')
+  const res = await fetch(`${import.meta.env.BASE_URL}news.json`)
   const raw = await res.json()
   news.value = raw
     .map((item) => {
